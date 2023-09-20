@@ -7,3 +7,8 @@ Candidates can use whatever method they wish to develop their machine learning m
 Following usual model development procedures, the model would be estimated on the
 calibration data and tested on the validation data. This case requires both statistical analysis and
 creativity/judgment. 
+
+
+Data Source: The dataset can be found here.
+
+https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV
