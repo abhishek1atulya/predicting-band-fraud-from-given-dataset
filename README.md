@@ -6,6 +6,4 @@ case is available in CSV format having 6362620 rows and 10 columns.
 Candidates can use whatever method they wish to develop their machine learning model.
 Following usual model development procedures, the model would be estimated on the
 calibration data and tested on the validation data. This case requires both statistical analysis and
-creativity/judgment. We recommend you spend time on both fine-tuning and interpreting the
-results of your machine learning model.
-Data Dictionary & Source Acquisition
+creativity/judgment. 
